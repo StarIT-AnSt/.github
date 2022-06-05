@@ -82,4 +82,9 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/YymCjzz_raA) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/568822d773b15dfcbeac8dac39b9d1b5/)
 
+### Часть 5.
+Реализация парсера для JSON. Провальная реализация ;-) 
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/LTArfOVnrew) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/16b3efd878f869f5a599d9842969b5b1/)
+
 ***
