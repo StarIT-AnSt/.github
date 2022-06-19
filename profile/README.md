@@ -88,3 +88,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/LTArfOVnrew) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/16b3efd878f869f5a599d9842969b5b1/)
 
 ***
+
+## .Девятый шаг.
+**Разбор MVC/MVP/MVVM**
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/u4E7yqTL-Pc) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/6e473ef552e0c11af8409ab472ebb704/)
