@@ -87,6 +87,23 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/LTArfOVnrew) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/16b3efd878f869f5a599d9842969b5b1/)
 
+### Часть 6.0
+Знакомство с Avalonia
+
+https://avaloniaui.net/
+https://docs.avaloniaui.net/
+https://www.reactiveui.net/
+https://dynamic-data.org/
+
+https://habr.com/ru/search/?q=avalonia&target_type=posts&order=relevance
+https://habr.com/ru/company/skbkontur/blog/542532/
+https://habr.com/ru/post/505036/
+https://habr.com/ru/company/skbkontur/blog/524518/
+
+https://habr.com/ru/post/270339/
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/2dwA6f3WBrs) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/aebdac20d0d4c275c5395f1e0bb41c5c/)
+
 ***
 
 ## .Девятый шаг.
