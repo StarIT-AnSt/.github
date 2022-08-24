@@ -1,5 +1,11 @@
 # Курсы и открытые уроки [Старинина Андрея](http://старинин.рф/) [@anst-foto](https://github.com/anst-foto)
 
+---
+
+Поддержать меня - https://vk.com/donut/it_anst
+
+---
+
 ## [Avalonia](https://github.com/StarIT-AnSt/courses/blob/main/avalonia.md)
 
 Курс по Avalonia - https://avaloniaui.net
