@@ -2,7 +2,7 @@
 
 ---
 
-Поддержать меня - https://vk.com/donut/it_anst
+Поддержать меня - https://vk.com/donut/starit_anst
 
 ---
 
