@@ -22,7 +22,7 @@
 
 [Подробнее о курсе](https://github.com/StarIT-AnSt/courses/blob/main/csharp_solid.md)
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLBXnHSmq7po9GVc1ANXGQP-bdlHuAa1OO) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/plst/234911)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLBXnHSmq7po9GVc1ANXGQP-bdlHuAa1OO) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/plst/234911) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+FzMD0OvI49FhZWFi)
 
 ***
 
@@ -62,4 +62,4 @@
 
 [Подробнее](https://github.com/StarIT-AnSt/courses/blob/main/open_lessons.md)
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLBXnHSmq7po8YT-w8Sya0x_2wT-2eSpUl)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLBXnHSmq7po8YT-w8Sya0x_2wT-2eSpUl) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+FzMD0OvI49FhZWFi)
