@@ -2,10 +2,6 @@
 
 ---
 
-Поддержать меня - https://vk.com/donut/starit_anst
-
----
-
 ## [Как работать с Git](https://github.com/StarIT-AnSt/courses/blob/main/git.md)
 
 Курс с открытыми занятиями по `git`.
